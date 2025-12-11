@@ -43,3 +43,11 @@ Laptop prices can vary widely based on technical specifications like CPU, RAM, s
 | Lasso Regression            | 0.8071     | 0.2111     | Underperforms vs Ridge  |
 | KNN Regressor               | 0.8031     | 0.1931     | Distance-based model    |
 | AdaBoost Regressor          | 0.7989     | 0.2294     | Weakest model           |
+
+
+## Author
+**Created by @Yash**
+
+If you found this useful, consider leaving a ⭐ on the repository!
+
+---
