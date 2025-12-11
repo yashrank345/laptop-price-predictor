@@ -28,14 +28,13 @@ Laptop prices can vary widely based on technical specifications like CPU, RAM, s
 - Seaborn
 - Jupyter Notebook
 - Streamlit
-- 
+  
 ---
 ## Models Tested & Results
 
 | Model                       | R² Score   | MAE        | Remarks                 |
 | --------------------------- | ---------- | ---------- | ----------------------- |
 | **Random Forest Regressor** | **0.8873** | **0.1586** | ⭐ Best Performing Model |
-| Extra Trees Regressor       | 0.8850     | 0.1615     | Very strong performance |
 | Gradient Boosting           | 0.8818     | 0.1595     | High accuracy           |
 | Decision Tree               | 0.8455     | 0.1805     | Good but overfits       |
 | Ridge Regression            | 0.8127     | 0.2092     | Stable linear model     |
